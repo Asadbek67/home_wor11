@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="503874b6-9182-43a8-9deb-abd7c621f947" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/home_9_/flowers/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_9_/flowers/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/3/f/3f1f0cb053c15e873edd7215c158016098ebde1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/4/6/469abb6e30af68bcd5b9209cc9e51e6e1aab97fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/6/0/60864a327d66cc34dabe1a08c5795081ac584d58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/9/4/94d740ed5ed300bbbbec90fb8759730e1129e1d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/9/f/9f2f420505750ecacc198f5a6dfd60c1a1fbf452" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/b/8/b8c243de8762c3b1ff97cc2dc9bfbb19a51451b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/e/5/e547297502976fbbc2b3df43b85df154c658ad69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/f/6/f69b8ce2e31684ae06f1b3e84821e07e3dfddb2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/3/f/3f1f0cb053c15e873edd7215c158016098ebde1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/4/6/469abb6e30af68bcd5b9209cc9e51e6e1aab97fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/6/0/60864a327d66cc34dabe1a08c5795081ac584d58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/9/4/94d740ed5ed300bbbbec90fb8759730e1129e1d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/9/f/9f2f420505750ecacc198f5a6dfd60c1a1fbf452" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/b/8/b8c243de8762c3b1ff97cc2dc9bfbb19a51451b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/e/5/e547297502976fbbc2b3df43b85df154c658ad69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/f/6/f69b8ce2e31684ae06f1b3e84821e07e3dfddb2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/flowers/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/media/flowers/330px-Blue_rose-artificially_coloured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/media/flowers/Rosa_Red_Chateau01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/project/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/project/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/project/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/project/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_9_/project/templates/type_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work_8/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/home_work_8/project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work_8/project/lesson/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work_8/project/lesson/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/home_9_" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2qRFfTiLkhQuxRywz22PSZuOftj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="503874b6-9182-43a8-9deb-abd7c621f947" name="Changes" comment="" />
+      <created>1734617583294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734617583294</updated>
+    </task>
+    <servers />
+  </component>
+</project>
